@@ -7,8 +7,4 @@ segunda en donde se deben realizar 7 visualizaciones. Todos los puntos deben est
 desarrollados, e incluidos en la entrega, así como también cualquier aclaración o consideración
 necesaria para resolución.	
 
-Nombre y Apellido: Ponti Julieta
 
-Padron: 104694
-
-Ayudante Asignado: Gianmarco Cafferata
