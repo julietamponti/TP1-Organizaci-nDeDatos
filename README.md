@@ -1,5 +1,6 @@
-# tp1Datos-104694
-## Trabajo práctico 1 - Pandas y Visualización de datos	
+# TP1 Organización de Datos - Facultad de Ingenieria - UBA
+
+## Pandas y Visualización de datos	
 
 El trabajo práctico consta de 2 partes, una enfocada a completar 7 consultas en Pandas, y la
 segunda en donde se deben realizar 7 visualizaciones. Todos los puntos deben estar
